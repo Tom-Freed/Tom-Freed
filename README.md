@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently undertaking a software engineering bootcamp, looking to transition to a career in software engineering. Proficient in Python with a good understanding of OOP and foundational knowledge in HTML, CSS, Django, SQL and Git.
+I am recent graduate of a software engineering bootcamp, looking to transition to a career in software engineering. Proficient in Python with a good understanding of OOP and foundational knowledge in HTML, CSS, Django, SQL and Git.
 <!--
 **Tom-Freed/Tom-Freed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
